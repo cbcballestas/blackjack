@@ -1,2 +1,2 @@
 # Blackjack
-Juego blackjack con javascript
+Juego blackjack con javascript para un solo jugador
